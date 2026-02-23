@@ -101,6 +101,9 @@ def train_model(model, train_loader, num_epochs=3):
 
 <img width="576" height="630" alt="image" src="https://github.com/user-attachments/assets/42387fe2-36e8-40e1-bdaa-92267f363bd0" />
 
+<img width="582" height="630" alt="image" src="https://github.com/user-attachments/assets/f928e158-167b-4ffb-b0a3-d82ceb186218" />
+
+
 ## RESULT
 
 The Convolutional Neural Network (CNN) model was successfully trained and achieved good classification performance on the given image dataset. 
