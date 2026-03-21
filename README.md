@@ -4,7 +4,10 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ##   PROBLEM STATEMENT AND DATASET
-Include the Problem Statement and Dataset.
+
+The objective of this project is to design and implement a Convolutional Neural Network (CNN) for image classification using a dataset available in the TensorFlow library. The model should be trained on preprocessed image data and evaluated for its performance.
+
+The task involves loading and preprocessing the dataset, building and training the CNN model, and analyzing its performance using training and validation loss plots. Finally, the trained model should be tested using new handwritten scanned images to verify its accuracy and generalization capability.
 
 ## Neural Network Model
 Include the neural network model diagram.
