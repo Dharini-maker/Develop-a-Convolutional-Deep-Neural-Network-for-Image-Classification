@@ -10,7 +10,8 @@ The objective of this project is to design and implement a Convolutional Neural 
 The task involves loading and preprocessing the dataset, building and training the CNN model, and analyzing its performance using training and validation loss plots. Finally, the trained model should be tested using new handwritten scanned images to verify its accuracy and generalization capability.
 
 ## Neural Network Model
-Include the neural network model diagram.
+
+<img width="998" height="698" alt="image" src="https://github.com/user-attachments/assets/c0988d79-4ad2-42fc-aecb-97ccd87c68ab" />
 
 ## DESIGN STEPS
 
@@ -40,9 +41,9 @@ Evaluate the trained model on test images and verify the classification accuracy
 
 ## PROGRAM
 
-### Name:
+### Name:Dharini.S
 
-### Register Number:
+### Register Number:212224040072
 
 ```python
 class CNNClassifier(nn.Module):
