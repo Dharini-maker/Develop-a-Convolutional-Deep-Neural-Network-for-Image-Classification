@@ -11,7 +11,7 @@ The task involves loading and preprocessing the dataset, building and training t
 
 ## Neural Network Model
 
-<img width="998" height="698" alt="image" src="https://github.com/user-attachments/assets/c0988d79-4ad2-42fc-aecb-97ccd87c68ab" />
+<img width="1052" height="512" alt="image" src="https://github.com/user-attachments/assets/ce182a2c-1306-40b1-a183-6a4f0674c849" />
 
 ## DESIGN STEPS
 
