@@ -9,6 +9,9 @@ The objective of this project is to design and implement a Convolutional Neural 
 
 The task involves loading and preprocessing the dataset, building and training the CNN model, and analyzing its performance using training and validation loss plots. Finally, the trained model should be tested using new handwritten scanned images to verify its accuracy and generalization capability.
 
+<img width="1022" height="225" alt="image" src="https://github.com/user-attachments/assets/9fe30a6b-b4aa-4702-a166-8e00104feba9" />
+
+
 ## Neural Network Model
 
 <img width="1052" height="512" alt="image" src="https://github.com/user-attachments/assets/ce182a2c-1306-40b1-a183-6a4f0674c849" />
